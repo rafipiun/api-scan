@@ -17,7 +17,7 @@ Make sure you have Python 3.x installed on your machine. You will also need to i
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/api-scan.git
+   git clone https://github.com/rafipiun/api-scan.git
    cd api-scan
    ```
 
