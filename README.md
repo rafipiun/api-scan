@@ -68,10 +68,6 @@ The script will output the results of the scan to the console and send an email 
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome contributions of any kind!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 [Rafi](https://github.com/rafipiun)
